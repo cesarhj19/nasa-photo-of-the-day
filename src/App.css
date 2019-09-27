@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+
+.card-container {
+  width: 80%;
+  margin: 0 auto;
+  background: lightgrey;
+  border-radius: 15px;
+}
+
+.card-container h1 {
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+
+.card-container p {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0;
+}
